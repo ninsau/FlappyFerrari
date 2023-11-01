@@ -2,8 +2,6 @@
 
 Welcome to **FlappyFerrari**, a nostalgic nod to the classic Flappy Bird game, but with a twist — instead of a bird, you navigate a Ferrari!
 
-![Gameplay Screenshot](path-to-your-game-screenshot.png) <!-- You can replace this with a direct link to your game's screenshot if you have one -->
-
 ## About 📖
 
 **FlappyFerrari** is a downgraded rendition of the legendary Flappy Bird, but it holds a special place in my heart. This project marks my maiden voyage into the world of Unity game development. While it might not boast high-end graphics or intricate gameplay, the journey of bringing FlappyFerrari to life has been invaluable.
